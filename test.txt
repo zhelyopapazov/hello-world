@@ -1,1 +1,2 @@
 Just a sample content inside the file.
+Updating with Bash…
